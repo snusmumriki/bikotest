@@ -4,17 +4,17 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def hello_world():
+def index():
     return ''
 
 
 @app.route('/routes')
-def hello_world():
-    return jsonify({})
+def routes():
+    return ''
 
 
 @app.route('/places')
-def hello_world():
+def places():
     return jsonify([
         {
             'name': 'Place 1',
