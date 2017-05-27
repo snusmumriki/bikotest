@@ -28,11 +28,8 @@ def routes():
             'city': 'Kaliningrad',
             'country': 'Russia',
             'state': 'Kaliningrad oblast',
-
             'distance': 4251,
-
             'time': '03:04:07',
-
             'places': [
                 {
                     'name': 'Place 1',
@@ -87,11 +84,8 @@ def routes():
             'city': 'Kaliningrad',
             'country': 'Russia',
             'state': 'Kaliningrad oblast',
-
             'distance': 4251,
-
             'time': '03:04:07',
-
             'places': [
                 {
                     'name': 'Place 4',
