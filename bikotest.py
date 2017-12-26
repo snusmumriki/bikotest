@@ -32,9 +32,9 @@ def routes():
             'time': '03:04:07',
             'places': [
                 {
-                    'name': 'Place 1',
-                    'description': 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac placerat nisi. '
-                                   'Praesent vitae lorem lectus. In nec viverra ipsum, eget eleifend purus. '
+                    'name': 'Кафедральный собор',
+                    'description': 'Одна из главных достопримечательностей калининградской области. '
+                                   'Здесь установлен один из самых больших органов в Европе. '
                                    'Phasellus auctor sed est non accumsan.',
                     'address': '',
                     'lat': 54.7063551,
@@ -44,8 +44,8 @@ def routes():
                     'state': 'Kaliningrad oblast'
                 },
                 {
-                    'name': 'Place 2',
-                    'description': 'Proin velit neque, rutrum id urna non, fringilla elementum lacus. '
+                    'name': 'Фридандские ворота',
+                    'description': 'Одни из семи сохранившихся городских ворот Калининграда. '
                                    'Fusce faucibus lacus nibh, eget scelerisque diam malesuada sed. '
                                    'In tempor mi et erat ornare elementum.',
                     'address': '',
@@ -56,7 +56,7 @@ def routes():
                     'state': 'Leningrad oblast'
                 },
                 {
-                    'name': 'Place 3',
+                    'name': 'Северный вокзал',
                     'description': 'Nunc lacinia, felis quis convallis volutpat, '
                                    'nisl metus tincidunt elit, ut ornare sapien arcu ac lectus. '
                                    'Vivamus quis elit sed tortor efficitur tristique ut non orci.',
