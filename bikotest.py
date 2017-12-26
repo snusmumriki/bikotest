@@ -17,8 +17,7 @@ def routes():
             'description': 'Обзорная экскурсия по центру Калининграда, '
                            'рекомендуем начать ваше знакомство с городом с этого маршрута.'
                            'In aliquam, mauris ut accumsan viverra, neque ex hendrerit ex, vitae hendrerit mi est nec enim. '
-                           'Aliquam sem nunc, interdum sit amet tortor et, porttitor fringilla metus. Cras non nulla lorem. '
-                           'Donec tristique, elit nec efficitur aliquet, ex lorem vulputate mauris, quis scelerisque nibh justo ut purus.',
+                           'Aliquam sem nunc, interdum sit amet tortor et, porttitor fringilla metus. Cras non nulla lorem. ',
 
             'image': 'https://gyb3jw.bn1303.livefilestore.com/y4m3utlmDhFKKhO_Mfykxeu4nvr9bgYlXjCbeXq-AZaEic_'
                      'PAHwGYLmGOi4Cp4-DHg4p_9e14CtuhhzGmFHbsEuoH2JW2fteJESBYhp2Mt-W1Jb2bweZhi6_'
