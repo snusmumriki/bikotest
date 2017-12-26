@@ -12,7 +12,7 @@ def index():
 def routes():
     return jsonify([
         {
-            'name': 'Route 1',
+            'name': 'Экскурсия по центру города',
 
             'description': 'Praesent efficitur, sapien in elementum elementum, sem felis varius massa, vel aliquet mi dolor vel lacus. '
                            'Suspendisse tincidunt posuere ultrices. '
@@ -69,7 +69,7 @@ def routes():
                 }]
         },
         {
-            'name': 'Route 2',
+            'name': 'Кенигсбергские мосты',
 
             'description': 'In hac habitasse platea dictumst. Nullam ac neque non quam auctor iaculis. '
                            'Mauris feugiat euismod diam. Duis id libero at odio consequat accumsan nec non metus. Nulla facilisi. '
