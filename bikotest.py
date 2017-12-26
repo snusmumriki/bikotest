@@ -57,8 +57,8 @@ def routes():
                 },
                 {
                     'name': 'Северный вокзал',
-                    'description': 'Nunc lacinia, felis quis convallis volutpat, '
-                                   'nisl metus tincidunt elit, ut ornare sapien arcu ac lectus. '
+                    'description': 'Обзорная экскурсия по центру Калининграда, '
+                                   'рекомендуем начать ваше знакомство с городом с этого маршрута.'
                                    'Vivamus quis elit sed tortor efficitur tristique ut non orci.',
                     'address': '',
                     'lat': 54.7204021,
@@ -71,8 +71,8 @@ def routes():
         {
             'name': 'Кенигсбергские мосты',
 
-            'description': 'In hac habitasse platea dictumst. Nullam ac neque non quam auctor iaculis. '
-                           'Mauris feugiat euismod diam. Duis id libero at odio consequat accumsan nec non metus. Nulla facilisi. '
+            'description': 'Во времена Канта, Кенигсбергцы здесь любили гулять, '
+                           'сейчас это самый популярный исторический маршрут, и недавно его начали осваивать велосипедисты.'
                            'Pellentesque tristique viverra convallis. Mauris aliquam, mauris feugiat interdum facilisis, '
                            'eros ante molestie nibh, quis bibendum est tortor eget urna. Vivamus ut tellus a massa ultrices varius. '
                            'Pellentesque ac consectetur sapien. Nunc sodales cursus accumsan. Donec mollis dictum ipsum, vitae consequat odio euismod nec. ',
