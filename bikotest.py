@@ -14,8 +14,8 @@ def routes():
         {
             'name': 'Экскурсия по центру города',
 
-            'description': 'Praesent efficitur, sapien in elementum elementum, sem felis varius massa, vel aliquet mi dolor vel lacus. '
-                           'Suspendisse tincidunt posuere ultrices. '
+            'description': 'Обзорная экскурсия по центру Калининграда, '
+                           'рекомендуем начать ваше знакомство с городом с этого маршрута.'
                            'In aliquam, mauris ut accumsan viverra, neque ex hendrerit ex, vitae hendrerit mi est nec enim. '
                            'Aliquam sem nunc, interdum sit amet tortor et, porttitor fringilla metus. Cras non nulla lorem. '
                            'Donec tristique, elit nec efficitur aliquet, ex lorem vulputate mauris, quis scelerisque nibh justo ut purus.',
@@ -74,8 +74,7 @@ def routes():
             'description': 'Во времена Канта, Кенигсбергцы здесь любили гулять, '
                            'сейчас это самый популярный исторический маршрут, и недавно его начали осваивать велосипедисты.'
                            'Pellentesque tristique viverra convallis. Mauris aliquam, mauris feugiat interdum facilisis, '
-                           'eros ante molestie nibh, quis bibendum est tortor eget urna. Vivamus ut tellus a massa ultrices varius. '
-                           'Pellentesque ac consectetur sapien. Nunc sodales cursus accumsan. Donec mollis dictum ipsum, vitae consequat odio euismod nec. ',
+                           'eros ante molestie nibh, quis bibendum est tortor eget urna. Vivamus ut tellus a massa ultrices varius. ',
 
             'image': 'https://tprgjq.bn1303.livefilestore.com/y4mupO5PGE1Pk25vKTfTUx2WU7nJTYl4IXjr-BfP2-'
                      '9L3HA179L6whk38Kp5U3dLV5MeEiKNPHozc0w8KAmOd5mNx7nbu7hm3oMe_3v5Dqt6u3ZMEzQwGJ4ePp263Fb5MT9YgStfer6Rvs2BP4zDFzt3m03i-'
